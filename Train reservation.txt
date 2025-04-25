@@ -1,0 +1,2 @@
+Train reservation
+Train reservation is the process of booking a specific seat or berth on a train in advance for a particular journey, ensuring a seat or berth is available for the passenger. This is necessary for most train classes in India, excluding General/Unreserved coaches, where tickets can be purchased directly at the station. 
